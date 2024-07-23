@@ -1,0 +1,6 @@
+@_20240722_SqlDb_HostAddress = http://localhost:5258
+
+GET {{_20240722_SqlDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
